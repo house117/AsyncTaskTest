@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MyTodoList</string>
+
+
+    <!--Titulos Ventanas-->
+    <string name="title_mainactivity"> Mi lista de To DOs </string>
+
+
+    <!--Etiquetas Aplicación-->
+
+    <string name="user_id">User Id:</string>
+    <string name="id">Id:</string>
+    <string name="tittle">Tittle</string>
+    <string name="body">Body</string>
+
+
+
+    <string name="donwloading">Descargando Posts</string>
+
+    <string name="label_posts_not_found">No se encontraron Posts para descargar</string>
+</resources>
